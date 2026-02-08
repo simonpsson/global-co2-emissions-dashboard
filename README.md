@@ -104,7 +104,7 @@ This dashboard answers key questions about global CO2 emissions:
 
 ## Author
 
-**[Your Name]**
+**Simon Pettersson**
 
 Looking for opportunities in data analytics. Background in SQL and Excel, currently expanding into Power BI and the broader Microsoft data stack.
 
