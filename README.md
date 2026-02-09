@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing global carbon dioxide emissions from
 
 > **Work in progress** — This dashboard is actively being developed with new features and refinements ongoing.
 
-![Dashboard Preview](Dashboard_PNG.png)
+![Dashboard Preview](Dashboard_preview.png)
 
 ---
 
